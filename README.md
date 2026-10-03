@@ -1,20 +1,22 @@
-<<<<<<< HEAD
-# React + Vite
+# CampusPulse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Student-first campus issue reporting and events hub. Built with React, Vite, and JavaScript for a GDG Campus selection project.
 
-Currently, two official plugins are available:
+Students can file campus issues, receive a tracking ID, search and filter reports, follow status, and browse upcoming events.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Scripts
 
-## React Compiler
+```bash
+npm install
+npm run dev
+npm run lint
+npm run build
+npm run preview
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Docs
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# campusplus
->>>>>>> origin/main
+- `Product.md` — product scope and pages
+- `Tasks.md` — build task board
+- `src/Agents.md` — agent collaboration rules
+- `src/Project_Spec.md` — technical specification
