@@ -22,30 +22,30 @@
 
 # PHASE 2 — UI Foundation
 
-- [ ] Design system
-- [ ] Global CSS
-- [ ] Responsive navbar
-- [ ] Landing page
-- [ ] Reusable buttons
-- [ ] Cards
-- [ ] Form components
-- [ ] Loading component
-- [ ] Error component
-- [ ] Empty-state component
+- [x] Design system
+- [x] Global CSS
+- [x] Responsive navbar
+- [x] Landing page
+- [x] Reusable buttons
+- [x] Cards
+- [x] Form components
+- [x] Loading component
+- [x] Error component
+- [x] Empty-state component
 
 ---
 
 # PHASE 3 — Student Experience
 
-- [ ] Student dashboard
-- [ ] Report issue page
-- [ ] Report submission form
-- [ ] Reports list
-- [ ] Report details page
-- [ ] Search
-- [ ] Filters
-- [ ] Status indicators
-- [ ] Tracking ID
+- [x] Student dashboard
+- [x] Report issue page
+- [x] Report submission form
+- [x] Reports list
+- [x] Report details page
+- [x] Search
+- [x] Filters
+- [x] Status indicators
+- [x] Tracking ID
 
 ---
 
@@ -86,10 +86,10 @@
 
 # PHASE 7 — Events
 
-- [ ] Events page
-- [ ] Event cards
+- [x] Events page
+- [x] Event cards
 - [ ] Event details
-- [ ] Upcoming events section
+- [x] Upcoming events section
 
 ---
 
@@ -105,16 +105,16 @@
 
 # PHASE 9 — Polish
 
-- [ ] Mobile responsive testing
-- [ ] Desktop testing
-- [ ] Form validation
-- [ ] Loading states
-- [ ] Error states
-- [ ] Empty states
+- [~] Mobile responsive testing
+- [~] Desktop testing
+- [x] Form validation
+- [x] Loading states
+- [x] Error states
+- [x] Empty states
 - [ ] Accessibility review
 - [ ] Performance review
 - [ ] Remove console errors
-- [ ] Final UI polish
+- [x] Final UI polish
 
 ---
 
